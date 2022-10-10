@@ -1,3 +1,9 @@
+# Alembic 101 🕵️‍♀️
+
+## What is Alembic? 🤔
+
+Alembic is a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python. It provides a full suite of well known database migration patterns, designed to allow database administrators, developers and users to upgrade databases on demand to the most recent schema version.
+
 ## Initialize alembic
 
 1. `alembic init alembic`
