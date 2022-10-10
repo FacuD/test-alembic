@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "prueba-alembic"
+version = "0.1.0"
+description = ""
+authors = ["FacuD"]
+readme = "README.md"
+packages = [{include = "prueba_alembic"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
